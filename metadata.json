@@ -1,0 +1,5 @@
+{
+  "name": "Fuzzy Vocal Range Compatibility Analyzer",
+  "description": "An application to analyze the compatibility between a song's note range and a singer's vocal range, providing a fuzzy score analysis and a final verdict.",
+  "requestFramePermissions": []
+}
